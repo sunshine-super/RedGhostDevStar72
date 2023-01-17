@@ -1,4 +1,4 @@
-# RedGhostDevStar72
+# Sunshine Super Secret Dev Star
 
 <h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=topskilldev&style=flat-square"></h2>
 
@@ -6,6 +6,7 @@
 ![](https://img.shields.io/badge/Angular-Expert-informational?style=flat&logo=angular&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Vue-Expert-informational?style=flat&logo=vue&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Solidity-Expert-informational?style=flat&logo=solidity&logoColor=white&color=red)
+![](https://img.shields.io/badge/Blockchain-Expert-informational?style=flat&logo=blockchain&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Laravel-Expert-informational?style=flat&logo=laravel&logoColor=white&color=red)
 ![](https://img.shields.io/badge/NestJS-Expert-informational?style=flat&logo=nestjs&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Mysql-Expert-informational?style=flat&logo=Mysql&logoColor=white&color=red)

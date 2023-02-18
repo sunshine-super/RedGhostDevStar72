@@ -51,14 +51,3 @@ Sincerely,</p>
 <code><a href="https://flutter.dev"><img alt="Flutter" title="Flutter" src="https://github.com/Nicoli430/logoMaster/blob/master/flutter.png" height="42"></a></code>
 <code><a href="https://nextjs.org"><img alt="Next" title="Next" src="https://github.com/Nicoli430/logoMaster/blob/master/next.png" height="42"></a></code>
 <code><a href="https://nuxtjs.org"><img alt="Next" title="Next" src="https://github.com/Nicoli430/logoMaster/blob/master/nuxt.png" height="42"></a></code>
-
-### Languages/Frameworks I'm learning:
-
-<code><a href="https://www.djangoproject.com"><img alt="Django" title="Django" src="https://github.com/Nicoli430/logoMaster/blob/master/django.png" height="42"></a></code>
-<code><a href="https://www.blockchain.com"><img alt="BlockChain" title="BlockChain" src="https://github.com/Nicoli430/logoMaster/blob/master/blockchain.png" height="42"></a></code>
-<code><a href="https://www.solidity.io"><img alt="Solidity" title="Solidity" src="https://github.com/Nicoli430/logoMaster/blob/master/solidity.png" height="42"></a></code>
-
-### Environments I work with:
-
-<code><a href="https://aws.amazon.com"><img alt="AWS" title="AWS" src="https://github.com/Nicoli430/logoMaster/blob/master/aws.png" height="42"></a></code>
-<code><a href="https://azure.microsoft.com/en-us/services/devops"><img alt="GitHub" title="Azure DevOps" src="https://github.com/Nicoli430/logoMaster/blob/master/azure.png" height="42"></a></code>

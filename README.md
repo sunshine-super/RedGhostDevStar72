@@ -14,8 +14,6 @@
 ![](https://img.shields.io/badge/PostgreSQL-Expert-informational?style=flat&logo=postgresql&logoColor=white&color=red)
 
 ![](https://img.shields.io/badge/Rust-Experienced-informational?style=flat&logo=rust&logoColor=white&color=blue)
-![](https://img.shields.io/badge/React%20Native-Experienced-informational?style=flat&logo=react&logoColor=white&color=blue)
-
 ![](https://img.shields.io/badge/Python-Skilled-informational?style=flat&logo=python&logoColor=white&color=green)
 ![](https://img.shields.io/badge/ASP.NET-Skilled-informational?style=flat&logo=asp.net&logoColor=white&color=green)
 
